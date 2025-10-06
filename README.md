@@ -1,6 +1,6 @@
 # ATIVIDADE
 
--> Criar repositório no GitHUG. <br>
+-> Criar repositório no GitHuB. <br>
 -> Copiar o Link de "Clone". <br>
 -> Acessar o GIT (terminal) e usar (git clone). <br>
 -> Depois de clonado entrar na pasta (cd pasta). <br>
